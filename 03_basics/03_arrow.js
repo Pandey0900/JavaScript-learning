@@ -50,7 +50,10 @@ chai()
 // const addTwo = (num1, num2) => {
 //     return num1 + num2
 // }
-
+/* Note :
+ In Arrow function if  we remove curly({ }) brackets  and add        parenthsis(( )) bracket so we don't need to write return function
+        see below example
+*/
 // const addTwo = (num1, num2) =>  num1 + num2
 
 // const addTwo = (num1, num2) => ( num1 + num2 )
