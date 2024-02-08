@@ -8,7 +8,7 @@
 
 ( (name) => {
     console.log(`DB CONNECTED TWO ${name}`);
-} )('Saurabh');
+} )('Saurabh')
 /* +++++++ Note +++++
 
 if we will not add semicolon(;) at end of call function (exp. ('Saurabh'))
